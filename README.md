@@ -1,2 +1,2 @@
-# NXEZIOT
-The website for tracking data from sensors
+# NXEZ IOT
+The website for tracking data from sensors.
